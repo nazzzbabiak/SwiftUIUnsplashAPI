@@ -1,0 +1,6 @@
+module Pods_UsplashJSONSwiftUI {
+  umbrella header "Pods-UsplashJSONSwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
